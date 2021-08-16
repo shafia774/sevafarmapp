@@ -1,0 +1,40 @@
+{
+    "@@locale": "en",
+    "sevafarm": "SEVAFARM",
+    "login": "LOGIN",
+    "userid":"User Id",
+    "password": "Password",
+    "signup": "Sign Up",
+    "createuser":"Create User",
+    "createpass":"Create Pass",
+    "createad":"Create Ad",
+    "goback":"Go Back",
+    "vegetables":"Vegetables",
+    "fruits":"Fruits",
+    "pulses":"Pulses",
+    "cereals":"Cereals",
+    "mycart":"My Cart",
+    "seasp":"Seasonal Special",
+    "seas":"Seasonal Products",
+    "kmango":"Kaalapadi mango available",
+    "adc":"Add to Cart",
+    "click":"Click Here",
+    "added":"Added to Cart",
+    "fail":"Username or password is wrong",
+    "na" : "That amount is not available",
+    "ca" : "Coming Soon",
+    "ys" : "Your Order is Placed Successfully",
+    "order": "ORDERS",
+    "homepage" : "Go to Home",
+    "cod" :"CASH ON DELIVERY",
+    "not" :"No Items Selected",
+    "total" :"View Total Price",
+    "tota":"The Total price is ",
+    "pa" :"Place Order"
+
+
+
+
+
+
+}

@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/sevafarm/sevafarm_app/MainActivity.java
+ com.sevafarm.sevafarm_app.MainActivity
+com/sevafarm/sevafarm_app/BuildConfig.java
+ com.sevafarm.sevafarm_app.BuildConfig

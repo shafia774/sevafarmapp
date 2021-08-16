@@ -1,0 +1,4 @@
+#Mon Aug 16 00:53:57 IST 2021
+base.0=C\:\\Users\\shafi\\Downloads\\sevafarmonline-local\\sevafarmonline-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
